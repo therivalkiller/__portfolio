@@ -16,6 +16,12 @@ const projectsData = [
     image: "./weather.jpg",
     description: "Built using pure HTML, CSS and JavaScript",
     link: "https://weather-detective.netlify.app/",
+  },
+  {
+    title: "Movie Search App",
+    image: "./movie.jpg",
+    description: "Built using React and omdb Api",
+    link: "https://awesome-moviess.netlify.app/",
   }
 ];
 
