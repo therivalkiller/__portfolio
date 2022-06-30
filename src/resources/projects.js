@@ -8,8 +8,8 @@ const projectsData = [
   {
     title: "PlantKart",
     image: "./plantKart.jpg",
-    description: "An Ecommerce website that sells nursery products and made using React, Firebase, Redux",
-    link: "#",
+    description: "PlantKart is built using MERN Stack. PlantKart in an online e-commerce platform for connecting customers to the local nurseries around them and get plants delivered to their homes directly from these Nurseries.",
+    link: "https://plantkartapp.herokuapp.com/",
   },
 ];
 
