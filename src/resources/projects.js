@@ -22,6 +22,18 @@ const projectsData = [
     image: "./movie.jpg",
     description: "Built using React and omdb Api",
     link: "https://awesome-moviess.netlify.app/",
+  },
+  {
+    title: "StreamEzy",
+    image: "./streamezy.jpg",
+    description: "StreamEzy is a decentralized video streaming platform, deployed using the Ethereum network.",
+    link: "https://github.com/therivalkiller/StreamEzy#top",
+  },
+  {
+    title: "Shopping Cart",
+    image: "./shopper.jpg",
+    description: "Built using Javascript and Firebase",
+    link: "https://shopper-firebase.netlify.app/",
   }
 ];
 
